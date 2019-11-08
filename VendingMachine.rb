@@ -1,6 +1,5 @@
-# # require "/Users/kame/workspace/DIC_work/Vending_Machine_work/VendingMachine.rb"
-# # @vm = VendingMachine.new
-# require "pry"
+# require "/Users/kame/workspace/DIC_work/Vending_Machine_work/VendingMachine.rb"
+# @vm = VendingMachine.new
 class Product
   attr_reader :name, :price, :quantity, :items
 
